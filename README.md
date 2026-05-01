@@ -1,2 +1,9 @@
-# n8n-workflows
-Collection of useful n8n automation workflows
+# n8n Workflows by Gaurav AILab
+
+Useful automation workflows for businesses.
+
+## Workflows
+- Coming soon...
+
+## Contact
+gauravailabofficial@gmail.com
